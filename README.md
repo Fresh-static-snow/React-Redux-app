@@ -1,5 +1,3 @@
-# React-Redux-Thunk-App
-
 ## React, Redux, Redux-thunk, Ant Design
 
 ### To run the project you need to :
